@@ -1,4 +1,4 @@
-# Document Retrieval Using Computer Vision: ColPali
+# Multimodal Document Retrieval : ColPali
 
 ## Standard Retrieval vs. ColPali
 
